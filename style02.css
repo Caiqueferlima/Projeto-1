@@ -1,0 +1,42 @@
+.link{
+    color: white;
+    text-decoration: none;
+}
+#header{
+    border-radius: 4px;
+    padding: 10px;
+    background-color: #364385;
+    font-family: 'Courier New', Courier, monospace;
+}
+.link:hover{
+    background-color: rgba(0, 0,
+    0, 0.179);
+    box-shadow: 2px 2px 2px #151d43
+}
+.content{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-right: 1%;
+    margin-left: 1%;
+}
+footer{
+    border-radius: 4px;
+    color: white;
+    background-color: #364385;
+}
+.p{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+.h1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
